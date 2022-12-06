@@ -1,0 +1,15 @@
+C:\Users\tanuu\Desktop\Итоговая работа\Код\bin\Debug\net6.0\Код.exe
+C:\Users\tanuu\Desktop\Итоговая работа\Код\bin\Debug\net6.0\Код.deps.json
+C:\Users\tanuu\Desktop\Итоговая работа\Код\bin\Debug\net6.0\Код.runtimeconfig.json
+C:\Users\tanuu\Desktop\Итоговая работа\Код\bin\Debug\net6.0\Код.dll
+C:\Users\tanuu\Desktop\Итоговая работа\Код\bin\Debug\net6.0\Код.pdb
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.csproj.AssemblyReference.cache
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.AssemblyInfoInputs.cache
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.AssemblyInfo.cs
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.csproj.CoreCompileInputs.cache
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.dll
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\refint\Код.dll
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.pdb
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\Код.genruntimeconfig.cache
+C:\Users\tanuu\Desktop\Итоговая работа\Код\obj\Debug\net6.0\ref\Код.dll
